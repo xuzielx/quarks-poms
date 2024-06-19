@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>mx.strongdev.quarkus.cloud</groupId>
+  <groupId>mx.strongdev.cloud</groupId>
   <artifactId>strongdev-quarkus-cloud-starter</artifactId>
   <version>3.9</version>
   <packaging>pom</packaging>
